@@ -1,0 +1,274 @@
+[
+    {
+       "board":"BOARD OF INTERMEDIATE EDUCATION (ANDHRA PRADESH)",
+       "code":"BIE"
+    },
+    {
+       "board":"BOARD OF SECONDARY EDUCATION (ANDHRA PRADESH)",
+       "code":"BSE"
+    },
+    {
+       "board":"A.P. OPEN SCHOOL SOCIETY Govt. of Andhra Pradesh",
+       "code":"AOSS"
+    },
+    {
+       "board":"ASSAM HIGHER SECONDARY EDUCATION COUNCIL",
+       "code":"AHSEC"
+    },
+    {
+       "board":"BOARD OF SECONDARY EDUCATION, ASSAM",
+       "code":"BSEA"
+    },
+    {
+       "board":"ASSAM SANSKRIT BOARD",
+       "code":"ASB"
+    },
+    {
+       "board":"STATE MADRASSA EDUCATION BOARD, ASSAM",
+       "code":"SMEBA"
+    },
+    {
+       "board":"ALIGARH MUSLIM UNIVERSITY BOARD OF SECONDARY & SR. SECONDARY EDUCATION",
+       "code":"AMUBSSSE"
+    },
+    {
+       "board":"BIHAR SCHOOL EXAMINATION BOARD",
+       "code":"BSEB"
+    },
+    {
+       "board":"BIHAR BOARD OF OPEN SCHOOLING & EXAMINATION",
+       "code":"BBOSE"
+    },
+    {
+       "board":"BIHAR STATE MADRASA EDUCATION BOARD",
+       "code":"BSMEB"
+    },
+    {
+       "board":"BIHAR SANSKRIT SHIKSHA BOARD",
+       "code":"BSSB"
+    },
+    {
+       "board":"BANASTHALI VIDYAPITH",
+       "code":"BV"
+    },
+    {
+       "board":"CENTRAL BOARD OF SECONDARY EDUCATION",
+       "code":"CBSE"
+    },
+    {
+       "board":"CHHATISGARH BOARD OF SECONDARY EDUCATION",
+       "code":"CHBSE"
+    },
+    {
+       "board":"CHHATISGARH STATE OPEN SCHOOL",
+       "code":"CSOS"
+    },
+    {
+       "board":"CHHATTISGARH SANSKRIT BOARD, RAIPUR",
+       "code":"CSBR"
+    },
+    {
+       "board":"CHHATTISGARH MADRASA BOARD",
+       "code":"CMB"
+    },
+    {
+       "board":"COUNCIL FOR THE INDIAN SCHOOL CERTIFICATE EXAMINATIONS",
+       "code":"CTISCE"
+    },
+    {
+       "board":"DAYALBAGH EDUCATIONAL INSTITUTE",
+       "code":"DEI"
+    },
+    {
+       "board":"DELHI STATE OPEN SCHOOL",
+       "code":"DSOS"
+    },
+    {
+       "board":"ICSE BOARD ( INDIAN COUNCIL OF SECONDARY EDUCATION / INDIAN SCHOOL CERTIFICATE EXAMINATION",
+       "code":"ICSE"
+    },
+    {
+       "board":"GOA BOARD OF SECONDARY AND HIGHER SECONDARY EDUCATION",
+       "code":"GBSAHSE"
+    },
+    {
+       "board":"GUJARAT SECONDARY AND HIGHER",
+       "code":"GSAH"
+    },
+    {
+       "board":"BOARD OF SCHOOL EDUCATION HARYANA",
+       "code":"BSEH"
+    },
+    {
+       "board":"H. P. BOARD OF SCHOOL EDUCATION",
+       "code":"HPBSE"
+    },
+    {
+       "board":"The J & K STATE BOARD OF SCHOOL EDUCATION",
+       "code":"JKSBSE"
+    },
+    {
+       "board":"JAMMU AND KASHMIR STATE OPEN SCHOOL",
+       "code":"JKSOS"
+    },
+    {
+       "board":"JHARKHAND ACADEMIC COUNCIL,RANCHI",
+       "code":"JAC"
+    },
+    {
+       "board":"GOVT. OF KARNATAKA DEPT. OF PRE-UNIVERSITY EDUCATION",
+       "code":"GKDPE"
+    },
+    {
+       "board":"KARNATAKA SECONDARY EDUCATION, EXAMINATION BOARD",
+       "code":"KSEEB"
+    },
+    {
+       "board":"KERALA BOARD OF PUBLIC EXAMINATION",
+       "code":"KBPE"
+    },
+    {
+       "board":"KERALA BOARD OF HIGHER SECONDARY EDUCATION",
+       "code":"KBHSE"
+    },
+    {
+       "board":"BOARD OF VOCATIONAL HIGHER",
+       "code":"BVH"
+    },
+    {
+       "board":"MAHARASHTRA STATE BOARD OF SECONDARY AND HIGHER SECONDARY EDUCATION",
+       "code":"MSBSAHSE"
+    },
+    {
+       "board":"BOARD OF SECONDARY EDUCATION, MADHYA PRADESH",
+       "code":"BSEMP"
+    },
+    {
+       "board":"M.P. STATE OPEN SCHOOL EDUCATION BOARD",
+       "code":"MSOSEB"
+    },
+    {
+       "board":"MAHARISHI PATANJALI SANSKRIT SANSTHAN",
+       "code":"MPSS"
+    },
+    {
+       "board":"BOARD OF SECONDARY EDUCATION, MANIPUR",
+       "code":"BSEM"
+    },
+    {
+       "board":"COUNCIL OF HIGHER SECONDARY EDUCATION, MANIPUR",
+       "code":"CHSEM"
+    },
+    {
+       "board":"MEGHALAYA BOARD OF SCHOOL EDUCATION",
+       "code":"MBSE"
+    },
+    {
+       "board":"MIZORAM BOARD OF SCHOOL EDUCATION",
+       "code":"MZBSE"
+    },
+    {
+       "board":"NAGALAND BOARD OF SCHOOL EDUCATION",
+       "code":"NBSE"
+    },
+    {
+       "board":"NATIONAL INSTITUTE OF OPEN SCHOOLING",
+       "code":"NIOS"
+    },
+    {
+       "board":"COUNCIL OF HIGHER SECONDARY EDUCATION, ODISHA",
+       "code":"CHSEO"
+    },
+    {
+       "board":"BOARD OF SECONDARY EDUCATION, ODISHA",
+       "code":"BSEO"
+    },
+    {
+       "board":"PUNJAB SCHOOL EDUCATION BOARD",
+       "code":"PSEB"
+    },
+    {
+       "board":"BOARD OF SECONDARY EDUCATION RAJASTHAN",
+       "code":"BSER"
+    },
+    {
+       "board":"RAJASTHAN STATE OPEN SCHOOL, JAIPUR",
+       "code":"RSOSJ"
+    },
+    {
+       "board":"RASHTRIYA SANSKRIT SANSTHAN",
+       "code":"RSS"
+    },
+    {
+       "board":"STATE BOARD OF SCHOOL EXAMINATIONS(SEC.) & BOARD OF HIGHER SECONDARY EXAMINATIONS, TAMIL NADU",
+       "code":"SBSEB"
+    },
+    {
+       "board":"TELANGANA STATE BOARD OF INTERMEDIATE EDUCATION",
+       "code":"TSBIE"
+    },
+    {
+       "board":"BOARD OF SECONDARY EDUCATION, TELANGANA STATE",
+       "code":"BSETS"
+    },
+    {
+       "board":"TELANGANA OPEN SCHOOL SOCIETY",
+       "code":"TOSS"
+    },
+    {
+       "board":"RAJIV GANDHI UNIVERSITY OF KNOWLEDGE TECHNOLOGIES ( RGUKT)",
+       "code":"RGUKT"
+    },
+    {
+       "board":"TRIPURA BOARD OF SECONDARY EDUCATION",
+       "code":"TBSE"
+    },
+    {
+       "board":"U.P. BOARD OF HIGH SCHOOL & INTERMEDIATE EDUCATION",
+       "code":"UBHSIE"
+    },
+    {
+       "board":"U.P. Board of SEC. SANSKRIT EDUCATION",
+       "code":"UBSSE"
+    },
+    {
+       "board":"BOARD OF SCHOOL EDUCATION UTTARAKHAND",
+       "code":"BSEU"
+    },
+    {
+       "board":"UTTRAKHAND SANSKRIT",
+       "code":"US"
+    },
+    {
+       "board":"UTTRAKHAND MADRASA EDUCATION BOARD",
+       "code":"UMEB"
+    },
+    {
+       "board":"WEST BENGAL BOARD OF SECONDARY EDUCATION",
+       "code":"WBBSE"
+    },
+    {
+       "board":"WEST BENGAL COUNCIL OF HIGHER SECONDARY EDUCATION",
+       "code":"WBCHSE"
+    },
+    {
+       "board":"WEST BENGAL BOARD OF MADRASAH EDUCATION",
+       "code":"WBBME"
+    },
+    {
+       "board":"THE WEST BENGAL COUNCIL OF RABINDRA OPEN SCHOOLING",
+       "code":"TWBCROS"
+    },
+    {
+       "board":"COUNCIL OF UNIVERSAL BUDDHIST UNIVERSITY, NAGPUR",
+       "code":"CUBUN"
+    },
+    {
+       "board":"ODISHA STATE BOARD OF MADRASA EDUCATION",
+       "code":"OSBME"
+    },
+    {
+       "board":"WEST BENGAL STATE COUNCIL OF TECHNICAL & VOCATIONAL EDUCATION",
+       "code":"WBSCTVE"
+    }
+ ]
