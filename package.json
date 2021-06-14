@@ -1,0 +1,24 @@
+{
+  "name": "indian-school-boards-list",
+  "version": "1.0.0",
+  "description": "Codes and names of indian school boards",
+  "main": "indian-school-boards-list.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Wrishi/indian-school-boards-list.git"
+  },
+  "keywords": [
+    "Indian",
+    "School",
+    "Boards"
+  ],
+  "author": "Saptarshi Bhattacharya",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Wrishi/indian-school-boards-list/issues"
+  },
+  "homepage": "https://github.com/Wrishi/indian-school-boards-list#readme"
+}
